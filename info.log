@@ -1,0 +1,31 @@
+2021-12-09 00:38:35,401 INFO :: This message shows basic info
+2021-12-09 00:38:35,401 WARNING :: This message shows some warning
+2021-12-09 00:38:35,401 ERROR :: This message helps to debug an error that occured in your program
+2021-12-09 00:40:28,222 INFO :: This message shows basic info
+2021-12-09 00:40:28,222 WARNING :: This message shows some warning
+2021-12-09 00:40:28,222 ERROR :: This message helps to debug an error that occured in your program
+2021-12-09 00:40:28,222 INFO :: Hello from the Binance connector
+2021-12-09 00:42:35,175 INFO :: This is logged in all casese
+2021-12-11 00:51:21,392 INFO :: Binance Futures Client successfully initialized
+2021-12-11 00:51:49,227 INFO :: Binance Futures Client successfully initialized
+2021-12-11 00:53:29,172 INFO :: Binance Futures Client successfully initialized
+2021-12-11 00:54:16,544 INFO :: Binance Futures Client successfully initialized
+2021-12-11 00:54:56,659 INFO :: Binance Futures Client successfully initialized
+2021-12-11 00:55:21,302 INFO :: Binance Futures Client successfully initialized
+2021-12-13 23:33:15,947 INFO :: Binance Futures Client successfully initialized
+2021-12-13 23:41:24,872 INFO :: Binance Futures Client successfully initialized
+2021-12-13 23:42:30,060 INFO :: Binance Futures Client successfully initialized
+2021-12-13 23:43:13,639 INFO :: Binance Futures Client successfully initialized
+2021-12-13 23:43:19,764 ERROR :: Error while making DELETE requests to /fapi/v1/order: {'code': -2011, 'msg': 'Unknown order sent.'} (ERROR STATUS CODE: 400)
+2021-12-14 01:15:12,286 ERROR :: error from callback <bound method BinanceFuturesClient.on_open of <connectors.binance_futures.BinanceFuturesClient object at 0x00000293030DB790>>: BinanceFuturesClient.on_open() takes 1 positional argument but 2 were given
+2021-12-14 01:15:12,286 ERROR :: error from callback <bound method BinanceFuturesClient.on_error of <connectors.binance_futures.BinanceFuturesClient object at 0x00000293030DB790>>: BinanceFuturesClient.on_error() takes 1 positional argument but 3 were given
+2021-12-14 01:15:51,605 ERROR :: error from callback <bound method BinanceFuturesClient.on_open of <connectors.binance_futures.BinanceFuturesClient object at 0x000001DF2267B790>>: BinanceFuturesClient.on_open() takes 1 positional argument but 2 were given
+2021-12-14 01:17:03,642 INFO :: Binance Futures Client successfully initialized
+2021-12-14 01:29:44,829 INFO :: Binance Futures Client successfully initialized
+2021-12-14 01:31:38,791 ERROR :: error from callback <bound method BinanceFuturesClient.on_open of <connectors.binance_futures.BinanceFuturesClient object at 0x000001AC3081B760>>: BinanceFuturesClient.on_open() takes 1 positional argument but 2 were given
+2021-12-14 01:31:38,791 ERROR :: error from callback <bound method BinanceFuturesClient.on_error of <connectors.binance_futures.BinanceFuturesClient object at 0x000001AC3081B760>>: BinanceFuturesClient.on_error() takes 2 positional arguments but 3 were given
+2021-12-14 01:32:34,226 INFO :: Binance connection opened
+2021-12-14 01:33:29,096 ERROR :: Binance connection error: 
+2021-12-14 01:33:29,382 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x000001A9248AB760>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2021-12-14 01:33:29,382 ERROR :: Binance connection error: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2021-12-14 01:33:29,382 INFO :: Binance Futures Client successfully initialized
